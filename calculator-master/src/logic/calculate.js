@@ -98,6 +98,10 @@ export default function calculate(obj, buttonName) {
     if (obj.total) {
       return { total: (-1 * parseFloat(obj.total)).toString() };
     }
+    if (obj.next == 0 || obj.next == null) {
+      let a;
+      let c = a.nextDigit
+    }
     return {};
   }
 
