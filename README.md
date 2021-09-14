@@ -27,5 +27,5 @@ Usage
 
 Comments
 ---
-При использовании кнопка 'AC', должна становиться 'C'.
+AC button must turn into C during typing.
 
